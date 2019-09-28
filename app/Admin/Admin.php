@@ -7,6 +7,7 @@ use Illuminate\Support\Facades\Auth;
 
 /**
  * Class Admin.
+ * Administartive class
  */
 class Admin
 {

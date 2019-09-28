@@ -8,7 +8,7 @@ class Permission
 {
     /**
      * Check permission.
-     *
+     * Permission class
      * @param $permission
      *
      * @return true
