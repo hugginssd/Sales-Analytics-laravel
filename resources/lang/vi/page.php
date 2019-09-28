@@ -1,0 +1,41 @@
+<?php
+return [
+    'title' => 'Tiêu đề',
+    'image' => 'Hình ảnh',
+    'key' => 'Key',
+    'key_validate' => 'Chỉ sử dụng kí tự trong nhóm: "A-Z", "a-z", "0-9" and ".-_" ',
+    'status' => 'Trạng thái',
+    'keyword' => 'Từ khóa',
+    'description' => 'Mô tả',
+    'content' => 'Nội dung',
+    'admin' => [
+        'title' => 'Trang',
+        'create_success' => 'Tạo mới thành công!',
+        'edit_success' => 'Cập nhật thành công!',
+        'list' => 'Danh sách trang',
+        'id' => 'ID',
+        'status' => 'Status',
+        'action' => 'Hành động',
+        'delete' => 'Xóa',
+        'edit' => 'Chỉnh sửa',
+        'add_new' => 'Thêm mới',
+        'export' => 'Xuất',
+        'refresh' => 'Làm mới',
+        'result_item' => 'Showing <b>:item_from</b> to <b>:item_to</b> of <b>:item_total</b> items</b>',
+        'sort' => 'Sắp xếp',
+        'search' => 'Tìm kiếm',
+        'add_new_title' => 'Tạo trang',
+        'add_new_des' => 'Tạo mới trang',
+
+        'search_place' => 'Tìm tên',
+        'choose_ảnh' => 'Chọn ảnh',
+
+        'sort_order' => [
+            'id_asc' => 'ID asc',
+            'id_desc' => 'ID desc',
+            'title_asc' => 'Tên a-z',
+            'title_desc' => 'Tên z-a',
+        ],
+
+    ],
+];
