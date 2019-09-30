@@ -303,7 +303,7 @@ CREATE TABLE `admin_store` (
 
 LOCK TABLES `admin_store` WRITE;
 /*!40000 ALTER TABLE `admin_store` DISABLE KEYS */;
-INSERT INTO `admin_store` VALUES (1,'/data/logo/scart-mid.png',1,'0123456789','Support: 0987654321','admin-demo@s-cart.org','','123st - abc - xyz','default');
+INSERT INTO `admin_store` VALUES (1,'/data/logo/scart-mid.png',1,'+263782 326 160','Support: +263782 326 160','mafiguhuggins@gmail.com','','9335 Kuwadzana, Harare, Zimbabwe','default');
 /*!40000 ALTER TABLE `admin_store` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -332,7 +332,7 @@ CREATE TABLE `admin_store_description` (
 
 LOCK TABLES `admin_store_description` WRITE;
 /*!40000 ALTER TABLE `admin_store_description` DISABLE KEYS */;
-INSERT INTO `admin_store_description` VALUES (1,'en','Demo S-cart : Free Laravel eCommerce for Business','Free website shopping cart for business','','<center><img src=\"/images/maintenance.png\" />\r\n<h3><span style=\"color:#e74c3c;\"><strong>Sorry! We are currently doing site maintenance!</strong></span></h3>\r\n</center>'),(1,'vi','Demo S-cart: Mã nguồn website thương mại điện tử miễn phí cho doanh nghiệp','Laravel shopping cart for business','','<center><img src=\"/images/maintenance.png\" />\r\n<h3><span style=\"color:#e74c3c;\"><strong>Sorry! We are currently doing site maintenance!</strong></span></h3>\r\n</center>');
+INSERT INTO `admin_store_description` VALUES (1,'en','Sales Analysis','Sales Analysis','','<center><img src=\"/images/maintenance.png\" />\r\n<h3><span style=\"color:#e74c3c;\"><strong>Sorry! We are currently doing site maintenance!</strong></span></h3>\r\n</center>'),(1,'vi','Demo S-cart: Mã nguồn website thương mại điện tử miễn phí cho doanh nghiệp','Laravel shopping cart for business','','<center><img src=\"/images/maintenance.png\" />\r\n<h3><span style=\"color:#e74c3c;\"><strong>Sorry! We are currently doing site maintenance!</strong></span></h3>\r\n</center>');
 /*!40000 ALTER TABLE `admin_store_description` ENABLE KEYS */;
 UNLOCK TABLES;
 
